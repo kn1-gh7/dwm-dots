@@ -1,0 +1,21 @@
+import = [
+	"~/.config/alacritty/gruvbox_material.toml"
+]
+
+[window]
+
+opacity = 0.9
+
+padding.x = 10
+padding.y = 10
+
+decorations = "Full"
+
+[font]
+
+bold_italic.family = "JetBrainsMonoNerdFont"
+italic.family = "JetBrainsMonoNerdFont"
+bold.family = "JetBrainsMonoNerdFont"
+normal.family = "JetBrainsMonoNerdFont"
+
+size = 14.0
